@@ -28,6 +28,8 @@ The software is being distributed as an executable jar file. In most cases you c
 - POV-Ray export facilities for 2-D automata.
 - Level and probability density plot capabilities.
 
+**Note:** If you wish to explore cellular automata over other group structures including Zn, you might be interested in the PascGalois JE program that is available in my PascGaloisJE repository.
+
 ---
 
 **Screenshots**
